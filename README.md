@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jakegads.dev](https://jakegads.dev)
 
-- 💬 Ask me about **Python, React, and pretty, much anything**
+- 💬 Ask me about **Python, React, and, pretty much anything**
 
 - 📫 How to reach me **jake.gads@gmail.com**
 
