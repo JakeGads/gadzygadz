@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, React, and, pretty much anything**
 
-- 📫 How to reach me **jake.gads@gmail.com**
+- 📫 How to reach me **me@jakegads.dev**
 
 - ⚡ Fun fact **I currently code more than I sleep ... and I'm loving it**
 
